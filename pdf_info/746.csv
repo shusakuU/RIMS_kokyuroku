@@ -1,0 +1,32 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,多倍長演算の数値積分への応用(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-01.pdf,神奈川工科大学,平山 弘,"Hirayama, Hiroshi"
+2,超平面法のベクトル計算機上の性能(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-02.pdf,"計算流体力学研究所,東京大学工学部,花王文理科学研究所",",,","藤野 清次,森 正武,竹内 敏己"
+3,$J_0(z)-iJ_1(z)$ = 0の数値解法と誤差解析について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-03.pdf,"筑波大学電気情報工学科,筑波大学大学院,筑波大学電気情報工学科","池辺 八洲彦,菊池 靖,藤代 一成","Ikebe, Yasuhiko,Kikuchi, Yasushi,Fujishiro, Issei"
+4,三次元圧縮性流体解析に現れるブロック五重対角行列群について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-04.pdf,計算流体力学研究所,,張 紹良
+5,対称用改訂CR法の収束性(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-05.pdf,日立ソフト,後 保範,"Ushiro, Yasunori"
+6,PCG methods applied to a system of nonlinear equations,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-06.pdf,"Department of Mathematics, Xi'an Jiaotong University,Department of Mathematics, Facutly of Science, Ehime University",",","CHEN, Xiaojun,YAMAMOTO, Tetsuro"
+7,Approximate Factorization of Multivariate Polynomials and Absolute Irreducibility Testing,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-07.pdf,"RIKEN,RIKEN,RIKEN",",,","Sasaki, T.,Suzuki, M.,Kolar, M.[他]"
+8,Unix の Fortran 77 の互換性(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-08.pdf,"福井大学工学部情報工学科,福井大学工学部情報工学科,高エネルギー物理学研究所トリスタン計算機",",,","吉田 肇,長谷川 武光,真鍋 篤"
+9,複合多項式について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-09.pdf,愛知工業大学電子工学科,秦野 和郎,"Hatano, Kazuo"
+10,科学計算からeと$\pi$を追放しよう(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-10.pdf,中部大学,二宮 市三,"NINOMIYA, Ichizo"
+11,Wigner分布の補正と非定常信号解析への適用(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-11.pdf,"パイオニア株式会社,豊橋技術科学大学,川鉄テクノリサーチ","石光 俊介,北川 孟,田宮 稔士","Ishimitsu, Shiunsuke,Kitagawa, Hajime,Tamiya, Toshio"
+12,気化時の潜熱及び形状変化を考慮した温度分布解析(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-12.pdf,"鹿島建設,鹿島建設,鹿島建設","今関 修,牟田 紀一郎,佐藤 博臣[他]","Imazeki, Osamu,Muta, Kiichiro,Sato. Hiroomi"
+13,一次元移流拡散高次精度五点差分スキームの安定性解析(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-13.pdf,"電気通信大学大学院,電気通信大学情報工学科","名古屋 靖一郎,牛島 照夫","Nagoya, Seiichiro,Ushijima, Teruo"
+14,体積変化を伴う凝固現象の数値解析(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-14.pdf,"電気通信大学情報工学科,筑波大学電子情報工学科,筑波大学電子情報工学科","花田 孝郎,今井 仁司,名取 亮[他]","Hanada, Takao,Imai, Hitoshi,Natori, Makoto"
+15,発展方程式の数値解法:台形法の改良とZlamal法(2段、3段)の比較(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-15.pdf,神奈川大学理学部,,村田 健郎
+16,LAMAX-S A Language for Matrix Calculation on Super Computers,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-16.pdf,"Research Associate, Faculty of Eng., Kanagawa University,Prof. & Dr. of Eng., Faculty of Eng., Kanagawa University,Research Institute of Systems Planning",",,","Uchida, Satoshi,Karasawa, Yutaka,Yamaki, Naokazu[他]"
+17,最適化算法と高速自動微分法について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-17.pdf,"慶応義塾大学理工学部,東京大学工学部,東京大学工学部","久保田 光一,伊理 正夫,室田 一雄","KUBOTA, Koichi,IRI, Masao,MUROTA, Kazuo"
+18,Variations of Structured Broyden Families for Nonlinear Least Squares Problems,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-18.pdf,東京理科大学工学部,矢部 博,"Yabe, Hiroshi"
+19,2次計画問題の例題生成法(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-19.pdf,"システム計画研究所,東京理科大学理学部,東京理科大学理学部","八巻 直一,高橋 悟,矢部 博","Yamaki, Naokazu,Takahashi, Satoru,Yabe, Hiroshi"
+20,代数方程式を解く同時反復解法による近似解のクラスター分析(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-20.pdf,大阪大学工学部,都田 艶子,"Miyakoda, Tsuyako"
+21,代数方程式の大域的解法と局所的解法の補正項の差異(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-21.pdf,日本大学農獣医学部,,五十嵐 正夫
+22,低次代数方程式の諸解法の比較:固有値問題を意識して(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-22.pdf,"聖徳学園女子短期大学,聖徳学園女子短期大学","別府 良孝,竹内 聖彦","Beppu, Yoshitaka,Takeuchi, Kiyohiko"
+23,連立非線形方程式の一解法:悪条件である出発値(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-23.pdf,"日本大学生産工学部,日本大学大学院生産工学研究科","平野 菅保,管 正志","Hirano, Sugayasu,Suga, Masashi"
+24,平方根を計算する高次収束法とその計算量の比較:$0(n^2)$の高速除算法による計算に関して(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-24.pdf,仙台電波高等専門学校,,小沢 一文
+25,線型反復例に対する補外法(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-25.pdf,長崎総合科学大学,長田 直樹,"Osada, Naoki"
+26,陰的Runge-Kutta法の特性と最適化:3段数5次法の場合(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-26.pdf,"山梨大学工学部,山梨大学工学部,山梨大学工学部","田中 正次,穂刈 康彦,山下 茂","Tanaka, Masatsugu,Hokari, Yasuhiko,Yamashita, Shigeru"
+27,Hamilton力学系に対する数値解法(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-27.pdf,"名古屋大学工学部,名古屋大学工学部",",","斎藤 理史,三井 斌友"
+28,Discrete approximations for stochastic differential equations,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-28.pdf,"Dept. of Information Eng., Fac. Eng., Nagoya Univ.,Dept. of Information Eng., Fac. Eng., Nagoya Univ.",",","SAITO, Yoshihiro,MITSUI, Taketomo"
+29,文書整形システム\AmS - \LaTeX とは(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-29.pdf,慶應義塾大学理工学部,野寺 隆,"NODERA, Takashi"
+30,The singularty on interpolation by rational spline functions,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-30.pdf,"Inst. of Appl. Math., Dalian Univ. of Tech.,Dept. of Infor. Eng., Nagoya Univ.",",","Wang, R.H.,Torii, T."
+31,The Finite Element Method of Smoothing Quadratic Splines,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0746-31.pdf,"Dept. of Electronic Engineering, Dalian University of Technology,Dept. of Information Engineering, Faculty of Engineering, Nagoya University",",","Wu, H.Y.,Torii, T."

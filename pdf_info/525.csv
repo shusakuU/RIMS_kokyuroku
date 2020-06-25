@@ -1,0 +1,21 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,画像知識データベースシステムの構成について(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-01.pdf,大阪大学工学部,打浪 清一,"UCHINAMI, Seiichi"
+2,位相情報空間型データベースシステムのエンドユーザ言語とその処理系について(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-02.pdf,"大阪大学工学部,大阪大学工学部,大阪大学工学部",",,","上田 修功,打浪 清一,手塚 慶一"
+3,文献情報検索システムAIR(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-03.pdf,"九州大学大型計算機センター,九州大学大型計算機センター,九州大学大型計算機センター","篠原 武,二村 祥一,松尾 文碩","Shinohara, Takeshi,Futamura, Shooichi,Matsuo, Fumihiro"
+4,LANとパソコンからなる分散型データベースシステムLISについて(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-04.pdf,"(財)日本情報処理開発協会,(財)日本情報処理開発協会","滝沢 誠,横塚 実","Takizawa, Makoto,Yokotsuka, Minoru"
+5,分散型関係データベースシステムにおけるテーブルの分割と重複(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-05.pdf,図書館情報大学図書館情報学部,,増永 良文
+6,大容量主記憶のものでのファイルの構成法(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-06.pdf,"京都大学工学部,京都大学工学部","小島 功,上林 弥彦","KOJIMA, Isao,KAMBAYASHI, Yahiko"
+7,従属性を考慮したネットワークデータベースの設計(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-07.pdf,"京都大学工学部,京都大学工学部","上林 彌彦,古川 哲也","Kambayashi, Yahiko,Furukawa, Tetsuya"
+8,フォームの設計法(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-08.pdf,京都大学工学部,,上林 弥彦
+9,A DATA MANIPULATION MODEL : AN EXTENSION OF THE ALPHA EXPRESSION,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-09.pdf,産能大学,小林 功武,"KOBAYASHI, Isamu"
+10,知識情報処理に関する一考察(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-10.pdf,東京大学工学部境界領域研究施設,,大須賀 節雄
+11,知識ベースシステムKAUSによるモデル構築(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-11.pdf,"東京大学工学部境界領域研究施設,東京大学工学部境界領域研究施設,東京大学工学部境界領域研究施設","韓 圭東,大須賀 節雄,山内 平行","Han, Guidong,Ohsuga, Setsuo,Yamauchi, Hiroyuki"
+12,KAUSによるグラフの知識表現と基本操作(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-12.pdf,"東京大学工学部境界領域研究施設,東京大学工学部境界領域研究施設","山内 平行,大須賀 節雄","Yamauchi, Hiroyuki,Ohsuga, Setsuo"
+13,知識ベースにおける論理型手続き起動のメカニズム(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-13.pdf,日本電信電話公社 武蔵野電気通信研究所,島 健一,"Shima, Kenichi"
+14,合金設計におけるモデリング(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-14.pdf,東京大学工学部,岩田 修一,"Iwata, Shuichi"
+15,最大類比と極大類比について(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-15.pdf,九州大学理学部附属基礎情報学研究施設,原口 誠,"Haraguchi, Makoto"
+16,Toposを用いた意味論モデル(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-16.pdf,釧路高等専門学校,水上 達就,"Mizukami, Tatsunari"
+17,PROLOGの情報空間モデル(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-17.pdf,北海道大学工学部,,田中 譲
+18,論理型言語によるメタ推論とその応用(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-18.pdf,"(財)新世代コンピュータ技術開発機構,(財)新世代コンピュータ技術開発機構,(財)新世代コンピュータ技術開発機構","國藤 進,北上 始,宮地 泰造[他]","Kunifuji, Susumu,Kitakami, Hajime,Miyachi, Taizo"
+19,部品化ソフトウェア : その概念と課題(情報の構造化と意味に関する研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-19.pdf,"富士通(株)国際情報社会科学研究所,富士通(株)国際情報社会科学研究所","小林 要,中川 徹","Kobayashi, Kaname,Nakagawa, Toru"
+20,Mandala : A unified system for modular programming and knowledge representation on Concurrent Prolog,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0525-20.pdf,"(財)新世代コンピュータ技術開発機構,(財)新世代コンピュータ技術開発機構,(財)新世代コンピュータ技術開発機構","古川 康一,竹内 彰一,国藤 進","Furukawa, Koichi,Takeuchi, Akikazu,Kunifuji, Susumu"

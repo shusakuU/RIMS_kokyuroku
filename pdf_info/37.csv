@@ -1,0 +1,10 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,微分方程式の数値解法における安定性 (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-01.pdf,"東京理科大学,東京理科大学","清水 辰次郎,林 健児","SHIMIZU,TATSUJIRO,HAYASHI,KENJI"
+2,境界値問題の積分方程式による解法 (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-02.pdf,日本大学理工学部,林 嘉男,"HAYASHI,YOSHIO"
+3,Navier-Stokes初期値問題のE. Hopfの弱解の滑かさについて (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-03.pdf,"九州大学理学部,九州大学理学部","柴垣 和三雄,力丸 久子","SHIBAGAKI,WASAO,RIKIMARU,HISAKO"
+4,Navier-Stokes方程式の解の一計算 (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-04.pdf,東京大学工学部,高見 穎郎,"TAKAMI,HIDEO"
+5,差分法による初期値問題の数値解法 : 安定性の理論 (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-05.pdf,東京大学理学部,藤田 宏,"FUJITA,HIROSHI"
+6,加速行列を用いる無反射法 (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-06.pdf,東京大学工学部,森口 繁一,"MORIGUCHI,SHIGEICHI"
+7,中性子拡散計算における収斂加速法と時間依存拡散方程式 (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-07.pdf,日立製作所中央研究所,野田 隆,"NODA,TAKASHI"
+8,差分法による境界値問題の数値解の収束性について (I) (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-08.pdf,早稲田大学工学部,中島 勝也,"NAKASHIMA,KATSUYA"
+9,最小自乗法におけるJacobiのAlgorithmについて (偏微分方程式の数値解法研究会報告集),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0037-09.pdf,富山大学文理学部,田中 専一郎,"TANAKA,SENICHIRO"

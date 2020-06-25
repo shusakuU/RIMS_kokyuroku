@@ -1,0 +1,10 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,方程式系の近似解に対する誤差評価 (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-01.pdf,愛媛大学理学部,山本 哲朗,"YAMAMOTO,TETSURO"
+2,大型機の標準関数と連立一次方程式解法サブルーチンの性能比較 (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-02.pdf,"名古屋大学大型計算機センター,名古屋大学工学部","秦野 [ヤス]世,二宮 市三","HATANO,YASUYO,NINOMIYA,ICHIZO"
+3,5次陽的Runge-Kutta法の特性の比較と最適化 (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-03.pdf,"山梨大学工学部,山梨大学工学部,山梨大学工学部,山梨大学工学部","田中 正次,山下 茂,田名後 保彦,尾崎 実","TANAKA,MASATSUGU,YAMASHITA,SHIGERU,TANAGO,YASUHIKO,OZAKI,MINORU"
+4,残差と近似解の誤差 (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-04.pdf,東芝,平野 菅保,"HIRANO,SUGAYASU"
+5,対称帯行列固有値解析 : ページスワップに注目して (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-05.pdf,日立製作所中央研究所,村田 健郎,"MURATA,KENRO"
+6,平野の変形Newton法の大域的収束性 (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-06.pdf,東京大学工学部,室田 一雄,"MUROTA,KAZUO"
+7,固有値問題のLanczos法について (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-07.pdf,慶応義塾大学工学部,高橋 秀俊,"TAKAHASHI,HIDETOSHI"
+8,$\sqrt{2}$倍的に標本数を増す関数入カのFFT (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-08.pdf,"名古屋大学工学部,名古屋大学工学部","鳥居 達生,長谷川 武光","TORII,TATSUO,HASEGAWA,TAKEMITSU"
+9,数値的方法によるLaplace逆変換の高精度アルゴリズム (数値計算のアルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0422-09.pdf,日本大学理工学部,細野 敏夫,"HOSONO,TOSHIO"

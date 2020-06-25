@@ -1,0 +1,18 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,高次収束する代数方程式の全根同時反復解法(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-01.pdf,"名古屋大学工学部,名古屋大学工学部,名古屋大学工学部","櫻井 鉄也,鳥居 達生,杉浦 洋","Sakurai, Tetsuya,Torii, Tatsuo,Sugiura, Hiroshi"
+2,二重指数関数型積分法を利用した無限級数の計算(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-02.pdf,神奈川工科大学,平山 弘,"Hirayama, Hiroshi"
+3,ステップ関数、フィルタ関数、デルタ関数の分数式近似(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-03.pdf,筑波大学電子情報工学系,,池辺 八洲彦
+4,流体問題の数値計算と丸め誤差(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-04.pdf,"電気通信大学,電気通信大学","藤間 昌一,田端 正久","Fujima, Shoichi,Tabata, Masahisa"
+5,代用電荷法に基づく双方向的な数値等角写像の方法(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-05.pdf,愛媛大学工学部,天野 要,"Amano, Kaname"
+6,一般曲線座標系における反復解法(SOR法)の高速化について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-06.pdf,"計算流体力学研究所,清水建設大崎研究室,東京大学工学部","藤野 清次,田村 哲郎,森 正武","Fujino, Seiji,Tamura, Tetsurou,Mori, Masatake"
+7,振動型半無限積分に対する変数変換型公式(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-07.pdf,"名古屋大学理学部,東京大学工学部","大浦 拓哉,森 正武","Ooura, Takuya,Mori, Masatake"
+8,楕円modular関数を用いた関数の解析接続について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-08.pdf,"一橋大学経済学部,東京大学工学部","杉原 正顕,森 正武","Sugihara, Masaaki,Mori, Masatake"
+9,加速可能集合と加速法(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-09.pdf,長崎総合科学大学,長田 直樹,"Osada, Naoki"
+10,ナビエストークス方程式への連立ILUCGS法適用結果(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-10.pdf,日立ソフトウェア工場,後 保範,"Ushiro, Yasunori"
+11,Nedelec 要素を用いた三次元磁界解析(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-11.pdf,"富士ファコム制御株式会社,富士ファコム制御株式会社,東京大学教養学部","金山 寛,本山 浩,菊地 文雄","Kanayama, Hiroshi,Motoyama, Hiroshi,Kikuchi, Fumio"
+12,高速固有値ルーチンの開発(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-12.pdf,"聖徳学園女子短期大学,中部大学,東海産業短期大学",",,","別府 良孝,二宮 市三,上田 誠"
+13,測地学における数値計算(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-13.pdf,東京都立大学,,石川 甲子男
+14,単一のパラメタを求めて準最良近似式を得る方法について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-14.pdf,電気通信大学,浜田 穂積,"HAMADA, Hozumi"
+15,非線形最小2乗問題に対するSongbai and Zhihong法の変種について(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-15.pdf,"東京理科大学工学部,鹿島建設(株)情報システム部","矢部 博,高橋 俊彦","Yabe, Hiroshi,Takahashi, Toshihiko"
+16,Group Symmetry and Sparsity in Matrix Computation,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-16.pdf,"東京大学工学部計数工学科,長岡技術科学大学建設学科","室田 一雄,池田 清宏","MUROTA, Kazuo,IKEDA, Kiyohiro"
+17,数値解析の道具箱(数値解析と科学計算),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0717-17.pdf,慶応義塾大学理工学部,,野寺 隆

@@ -1,0 +1,11 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,Sierpinski空間上での関数近似とCalculus : 偏微分方程式の数値解法をめぐって(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-01.pdf,"京都大学理学部,京都大学理学部","山口 昌哉,木上 淳","Yamaguti, Masaya,Kigami, Jun"
+2,Convergence of an Integral Equation Method to convective Heat Transfer,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-02.pdf,"Applied Mathematics Department, Fukuoka University",大西 和栄,"Onishi, K."
+3,境界要素法による連成熱弾性問題の解析(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-03.pdf,"日本大学生産工学部,日本大学大学院生産工学研究科","登坂 宣好,除 日教","TOSAKA, Nobuyoshi,SUH, Ill-gyo"
+4,境界要素法における数値解の一様収束性について(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-04.pdf,京都大学数理解析研究所,磯 祐介,"Iso, Yuusuke"
+5,確率行列に対する一評価と境界要素近似への応用(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-05.pdf,大阪大学大学院基礎工学研究科,早川 款達郎,"Hayakawa, Kantaro"
+6,A regularized Boundary Integral Equation Method for Elastodynamic Crack Problems,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-06.pdf,"Department of Civil Engineering, Kyoto University,Department of Civil Engineering, Kyoto University",",","Nishimura, N.,Kobayashi, S."
+7,L$^2(\Omega)$-ERROR ESTIMATE OF GALERKIN BOUNDARY ELEMENT METHOD WITH SINGLE LAYER POTENTIAL,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-07.pdf,"Department of Applied Mathematics, Okayama University of Science",,"SAKAKIHARA, Michio"
+8,水の波の線形問題について(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-08.pdf,"電気通信大学電気通信学部情報工学科,電気通信大学電気通信学部情報工学科,電気通信大学電気通信学部情報工学科","牛島 照夫,松木 美保子,青木 篤","USHIJIMA, Teruo,MATSUKI, Mihoko,AOKI, Atsushi"
+9,ナビエ・ストークス方程式の分数段有限要素近似(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-09.pdf,電気通信大学,田端 正久,"Tabata, Masahisa"
+10,積分方程式法による粘性流れ問題の近似解析(境界要素法の数学的理論とその周辺(1)),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0691-10.pdf,"日本大学生産工学部,日本大学生産工学部","登坂 宣好,角田 和彦","Tosaka, Nobuyoshi,Kakuda, Kazuhiko"

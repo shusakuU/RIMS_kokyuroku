@@ -1,0 +1,17 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,Stability Analysis of Numerical Solution of Stochastic Differential Equations(2nd Workshop on Stochastic Numerics),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-1.pdf,名古屋大学人間情報学研究科,三井 斌友,"MITSUI, Taketomo"
+2,"確率微分方程式の数値スキームの$T$安定性(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-2.pdf,聖徳学園女子短期大学,齊藤 善弘,"SAITO, Yoshihiro"
+3,Stable ROW-Type Weak Scheme for Stochastic Differential Equations(2nd Workshop on Stochastic Numerics),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-3.pdf,"Department of Information Engineering, School of Engineering, Nagoya University,Graduate School of Human Informatics, Nagoya University","小守 良雄,三井 斌友","Komori, Yoshio,Mitsui, Taketomo"
+4,Explicit Order 1.5 Runge-Kutta Scheme for Solutions of Ito Stochastic Differential Equations(2nd Workshop on Stochastic Numerics),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-4.pdf,"(株)富士通研究所,情報社会科学研究所",金児 純司,"Kaneko, Junji"
+5,"2次元Josephson接合格子のLangevin dynamic simulations(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-5.pdf,日立基礎研究所,菅野 量子,"Sugano, Ryoko"
+6,"GF(2)上のある種の原始多項式の倍数についての予想 : M系列擬似乱数のシミュレーションから(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-6.pdf,大阪教育大学,,高嶋 恵三
+7,"GFSR法による生成列の重み分布の偏りについて(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-7.pdf,"計量研究所,慶應義塾大学理工学部数理科学科","栗田 良春,松本 眞","KURITA, Yoshiharu,MATSUMOTO, Makoto"
+8,Deterministic Brownian Motions(2nd Workshop on Stochastic Numerics),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-8.pdf,大阪市立大学理学部,釜江 哲朗,"Kamae, Teturo"
+9,On the notions of randomness(2nd Workshop on Stochastic Numerics),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-9.pdf,"Faculty of Science, Kyoto Sangyo University",,"Yasugi, Mariko"
+10,Estimates of Convergence Rates for Approximate Solutions of Stochastic Differential Equations(2nd Workshop on Stochastic Numerics),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-10.pdf,"Department of Mathematics, Faculty of Liberal Arts & Education, Yamanashi University",,"KANAGAWA, Shuya"
+11,"非線形SDEの数値計算 : 小川の方法によるシミュレーションについて(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-11.pdf,日立製作所中央研究所,,直野 健
+12,"コルモゴロフ型方程式の数値解析に於けるランダム粒子法のロバストネスについて(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-12.pdf,京都工芸繊維大学,小川 重義,"OGAWA, Shigeyoshi"
+13,"シフト法の評価について(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-13.pdf,九州大学大学院数理学研究科,杉田 洋,"SUGITA, Hiroshi"
+14,"退化放物型偏微分方程式の確率解の近似表現(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-14.pdf,城西大学理学部,天野 一男,"AMANO, KAZUO"
+15,"Donskerのデルタ関数とSDEの離散化による熱核の近似(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-15.pdf,京都大学,,渡辺 信三
+16,"重調和擬過程の境界値問題(確率数値解析に於ける諸問題,II)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0932-16.pdf,東京都立大学理学部数学教室,,西岡 國雄

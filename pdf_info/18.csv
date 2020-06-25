@@ -1,0 +1,11 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,大次元連立一次方程式についての一考察 (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-01.pdf,日本大学理工学部,宇野 利雄,"UNO,TOSHIO"
+2,線の方法について (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-02.pdf,早稲田大学理工学部,中島 勝也,"NAKASHIMA,KATSUYA"
+3,One-Step Methodについて (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-03.pdf,広島大学理学部,新谷 尚義,"SHINTANI,HISAYOSHI"
+4,双曲型偏微分方程式の初期値問題をとくSchemeについて (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-04.pdf,京都大学工学部,山口 昌哉,"YAMAGUCHI,MASAYA"
+5,方程式$u_t+uu_x=0$のある初期値問題に関する数値実験 (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-05.pdf,京都大学工学部,野木 達夫,"NOGI,TATSUO"
+6,ある非線形方程式の差分法による解の存在 (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-06.pdf,京都大学工学部,西田 孝明,"NISHIDA,TAKAAKI"
+7,4階差分方程式の解の評価 (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-07.pdf,航空宇宙技術研究所,三好 甫,"MIYOSHI,HAJIME"
+8,1階準線型方程式の初期値問題のWeak Solutionの存在について (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-08.pdf,航空宇宙技術研究所,小島 清史,"KOJIMA,KIYOFUMI"
+9,定数係数の線型偏微分方程式に類比な多段階差分方程式の行列理論 (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-09.pdf,"九州大学理学部,福岡教育大学","柴垣 和三雄,丸木 五一","SHIBAGAKI,WASAO,MARUKI,GOICHI"
+10,最小自乗法におけるAlgorithm (数値解析の基礎理論および偏微分方程式の数値解法シンポジウム),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0018-10.pdf,富山大学文理学部,田中 専一郎,"TANAKA,SENICHIRO"

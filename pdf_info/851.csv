@@ -1,0 +1,11 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,Some Properties of Data Types with Inequations,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-01.pdf,"Advanced Research Laboratory, Hitachi, Ltd.",,"Kondoh, Hidetaka"
+2,A Complete Type Inference System for Subtyped Recursive Types,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-02.pdf,"Department of Information Science, Univeresity of Tokyo,Department of Information Science, Univeresity of Tokyo",",","Sekiguchi, Tatsurou,Yonezawa, Akinori"
+3,The Transformation Calculus and its Typing,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-03.pdf,"The University of Tokyo, Faculty of Science, Dept. of Information Science, Yonezawa Lab.",,"Garrigue, Jacques"
+4,A Typed Higher-Order Programming Language Based on the Pi-Calculus,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-04.pdf,"LFCS,INRIA-Roquencourt,LFCS",",,","Pierce, Benjamin C.,Remy, Didier,Turner, David N."
+5,Types for Dyadic Interaction,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-05.pdf,"Department of Computer Science, Keio University",,"Honda, Kohei"
+6,A Predicative Polymorphic Type System for a Calculus of Objects,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-06.pdf,"Department of Computer Science, Keio Univeresity",,"Vasaco Thudichum, Vasconcelos"
+7,Linear Types and Calculi with Explicit Sharing,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-07.pdf,"Research Institute for Mathematical Sciences, Kyoto University",,"Minamide, Yasuhiko"
+8,Open-Endedness of Objects and Types in Martin-Lof's Type Theory,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-08.pdf,NTT Basic Research Laboratories,,"Tsukada, Yasuyuki"
+9,Towards Imperative Type Systems,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-09.pdf,"C&C Research Laboratories, NEC corporation",,"Otake, Kazuo"
+10,Dinaturality of Simple Subtyping,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0851-10.pdf,"Systems & Software Engineering Laboratory, Research and Development Center, Toshiba Corporation",,"Fujiwara, Yasushi"

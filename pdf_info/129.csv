@@ -1,0 +1,12 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,多次元数値積分の一つの試み (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-01.pdf,"北海道大学理学部,北海道大学理学部","田中 一,長田 博泰","TANAKA,HAJIME,NAGATA,HIROYASU"
+2,多桟系における安定限界の解析予測について (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-02.pdf,"東芝,東芝,東芝","平野 菅保,永村 純一,湯浅 琢磨","HIRANO,SUGAYASU,NAGAMURA,JUNICHI,YUASA,TAKUMA"
+3,常微分方程式の数値解法における丸め誤差について (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-03.pdf,"東京理科大学,東京理科大学,東京理科大学","清水 辰次郎,林 健児,大橋 常道","SHIMIZU,TATSUJIRO,HAYASHI,KENJI,OHASHI,TSUNEMICHI"
+4,有限要素法の誤差について (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-04.pdf,東京大学工学部,辻 尚史,"TSUJI,TAKASHI"
+5,有限要素法による構造解析の数値実験 (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-05.pdf,"同和鉱業,埼玉大学理工学部,東京大学工学部,日本科学技術研修所","渡辺 幸雄,小林 光夫,辻 尚史,恒川 純吉","WATANABE,YUKIO,KOBAYASHI,MITSUO,TSUJI,TAKASHI,TSUNEKAWA,JUNKICHI"
+6,一般逆行列の数値アルゴリズム (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-06.pdf,"日本アイ・ビー・エム,慶応義塾大学工学部,統計数理研究所","渋谷 政昭,篠崎 信雄,田辺 国士","SHIBUYA,MASAAKI,SHINOZAKI,NOBUO,TANABE,KUNIO"
+7,An Adaptive Acceleration of General Linear Iterative Processes for Solving Systems of Linear Equations (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-07.pdf,統計数理研究所,田辺 国士,"TANABE,KUNIO"
+8,Array Processorについて (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-08.pdf,"日本IBMサイエンティフィックセンター,日本IBMサイエンティフィックセンター","飯坂 譲二,渋谷 政昭","IISAKA,JOJI,SHIBUYA,MASAAKI"
+9,誤差函数の逆函数の計算 (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-09.pdf,京都大学数理解析研究所,一松 信,"HITOTSUMATSU,SHIN"
+10,超幾何分布の分布関数のWiseの近似式の延長 (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-10.pdf,青山学院大学,山内 二郎,"YAMAUCHI,JIRO"
+11,多項式処理プログラム (大型の数値計算に関する諸問題),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0129-11.pdf,日本原子力研究所,石黒 美佐子,"ISHIGURO,MISAKO"

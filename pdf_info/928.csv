@@ -1,0 +1,9 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,非線形作用素方程式のKrawczyk作用素と区間関数の積分理論による解の存在の数値的検証法(数値計算における品質保証とその応用 : 感度解析から証明まで) ,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-1.pdf,早稲田大学理工学部情報学科,大石 進一,"OISHI, Shin'ichi"
+2,楕円型方程式の解の数値的検証法へのKrawczyk法の適用(数値計算における品質保証とその応用 : 感度解析から証明まで) ,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-2.pdf,"九州大学大学院数理学研究科,九州大学大学院数理学研究科","山本 野人,中尾 充宏","Yamamoto, Nobito,Nakao, Mitsuhiro T."
+3,連続力学系のコネクティングオービットの精度保証付き数値解析法(数値計算における品質保証とその応用 : 感度解析から証明まで) ,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-3.pdf,早稲田大学理工学部,大石 進一,"Oishi, Shin'ichi"
+4,Stokes方程式の有限要素解に対するa posteriori誤差評価(数値計算における品質保証とその応用 : 感度解析から証明まで),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-4.pdf,"九州大学大学院数理学研究科,九州大学大学院数理学研究科,九州大学大型計算機センター","中尾 充宏,山本 野人,渡部 善隆","Nakao, Mitsuhiro T.,Yamamoto, Nobito,Watanabe, Yoshitaka"
+5,有限次元非線形方程式の全解探索アルゴリズム(数値計算における品質保証とその応用 : 感度解析から証明まで),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-5.pdf,"早稲田大学理工学部,九州大学工学部,早稲田大学理工学部","神沢 雄智,柏木 雅英,大石 進一","KANZAWA, Yuchi,KASHIWAGI, Masahide,OISHI, Shin'ichi"
+6,区間演算による関数の値域の効率的評価法(数値計算における品質保証とその応用 : 感度解析から証明まで),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-6.pdf,九州大学工学部情報工学科,柏木 雅英,"Kashiwagi, Masahide"
+7,抵抗回路の感度の符号と区間解析(数値計算における品質保証とその応用 : 感度解析から証明まで),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-7.pdf,早稲田大学理工学研究科,早川 透,"HAYAKAWA, Tooru"
+8,順序付き改良SOR法と直接法(数値計算における品質保証とその応用 : 感度解析から証明まで),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0928-8.pdf,"早稲田大学理工学部,早稲田大学理工学部","石渡 恵美子,室谷 義昭","Ishiwata, Emiko,Muroya, Yoshiaki"

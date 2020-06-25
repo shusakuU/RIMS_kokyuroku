@@ -1,0 +1,11 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,Converging Factorについて (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-01.pdf,広島大学理学部,新谷 尚義,"SHINTANI,HISAYOSHI"
+2,2点境界値問題の数値解法へのSpline関数の応用 (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-02.pdf,九州大学理学部,酒井 宦,"SAKAI,MANABU"
+3,確率積分の逆関数について (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-03.pdf,"電子技術総合研究所,慶応義塾大学工学部","戸田 英雄,竹内 寿一郎","TODA,HIDEO,TAKEUCHI,JUICHIRO"
+4,Pade展開の係数の計算 (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-04.pdf,"岡山大学理学部,京都大学数理解析研究所","川端 親雄,一松 信","KAWABATA,CHIKAO,HITOTSUMATSU,SHIN"
+5,格子の整数論 (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-05.pdf,東京大学理学部,和田 秀男,"WADA,HIDEO"
+6,有限群論と計算機 (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-06.pdf,東京大学理学部,榎本 彦衛,"ENOMOTO,HIKOE"
+7,連立方程式の数値解の一つの試み (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-07.pdf,"東芝,東芝","松井 俊二,平野 菅保","MATSUI,SHUNJI,HIRANO,SUGAYASU"
+8,An Implicit One-Step Method of High-Order Accuracy for the Numerical Integration of Ordinary Differentia Equations (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-08.pdf,京都大学数理解析研究所,占部 実,"URABE,MINORU"
+9,"泥堂氏の方程式$y""=(x-A)y$をめぐって (数値解析の基礎理論)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-09.pdf,京都大学数理解析研究所,一松 信,"HITOTSUMATSU,SHIN"
+10,自由討論 : Library programのテストについて : 数理解析研究所での実験報告と討論 (数値解析の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0107-10.pdf,京都大学数理解析研究所,一松 信[記],"HITOTSUMATSU,SHIN"

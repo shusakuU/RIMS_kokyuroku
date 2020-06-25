@@ -1,0 +1,12 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,"y""(x)=f(x), y(-1)=y(1)=0の最適な数値積分公式について(数値計算の基本アルゴリズムの研究)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-01.pdf,名古屋大学工学部,杉浦 洋,"Sugiura, Hirosi"
+2,複数個の解をもつ不動点問題の数値解法について(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-02.pdf,富士通(株)国際情報社会科学研究所,鈴木 千里,"Suzuki, Chisato"
+3,1階微分方程式に対するChebyshew-Galerkin法による特異積分(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-03.pdf,"福井大学工学部,名古屋大学工学部","長谷川 武光,鳥居 達生","Hasegawa, Takemitsu,Torii, Tatsuo"
+4,Algorithm for a posteriori error bounds of the numerical solution for initial value problems by discrete variable methods(I),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-04.pdf,"Department of Mathematics, Fukuoka University of Education",藤井 正友,"FUJII, Masatomo"
+5,科学技術計算用データ駆動計算機SIGMA-1のモンテカルロ法への適用(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-05.pdf,"電子技術総合研究所,電子技術総合研究所","関口 智嗣,島田 俊夫","SEKIGUCHI, Satoshi,SHIMADA, Toshio"
+6,PCG法の為のデータ構造(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-06.pdf,日本大学理工学部,戸川 隼人,"Togawa, Hayato"
+7,ランク落ちのある正規方程式の諸解法結果の比較法(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-07.pdf,図書館情報大学,,村田 健郎
+8,平衡プラズマにおける自由境界値問題の数値解法(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-08.pdf,東京大学工学部,今井 仁司,"IMAI, Hitoshi"
+9,境界要素法による自由表面を有する流れの解析(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-09.pdf,東京大学工学部,中山 司,"Nakayama, Tsukasa"
+10,正則格子による多重積分(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-10.pdf,京都大学数理解析研究所,一松 信,"Hitotumatu, Sin"
+11,解決すべき数値計算基本問題 : 問題提起と討論(数値計算の基本アルゴリズムの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0553-11.pdf,筑波大学電子情報工学系,森 正武,"Mori, Masatake"

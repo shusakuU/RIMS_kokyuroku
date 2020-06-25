@@ -1,0 +1,13 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,発展方程式の数値解法の能率の比較 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-01.pdf,"京都大学数理解析研究所,京都大学数理解析研究所","森 正武,高橋 知子","MORI,MASATAKE,TAKAHASHI,TOMOKO"
+2,"配列の計算を速くするサブルーチンパッケージ""HISARP""について (計算の手間と能率化)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-02.pdf,日本IBM,加藤 隼一,"KATO,SHUNICHI"
+3,Variation Diminishing Splineによる多変数関数近似 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-03.pdf,青山学院大学理工学部,馬渡 鎮夫,"MAWATARI,SHIZUO"
+4,Modulo-p演算による行列の逆転 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-04.pdf,"三菱電気中央研究所,三菱電気中央研究所,三菱電気中央研究所","下地 貞夫,小林 健三,大貝 佳子","SHIMOJI,SADAO,KOBAYASHI,KENZO,OGAI,KEIKO"
+5,CORDICおよびその変形にもとづく初等函数計算 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-05.pdf,京都大学数理解析研究所,一松 信,"HITOTSUMATSU,SHIN"
+6,マイクロプログラムによる初等関数の計算法とその評価 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-06.pdf,"京都大学工学部,京都大学工学部","小柳 滋,萩原 宏","KOYANAGI,SHIGERU,HAGIWARA,HIROSHI"
+7,浮動小数点数の総和の計算法の比較 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-07.pdf,"九州大学工学部,九州大学工学部","牛島 和夫,芦田 正","USHIJIMA,KAZUO,ASHIDA,TADASHI"
+8,平方根の最良第一近似式 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-08.pdf,日立製作所システム開発研究所,浜田 穂積,"HAMADA,HOZUMI"
+9,"最短路問題の""最適""算法について (計算の手間と能率化)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-09.pdf,"東京大学工学部,東京大学工学部","中森 真理雄,伊理 正夫","NAKAMORI,MARIO,IRI,MASAO"
+10,再帰的関数の評価機能 (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-10.pdf,慶応義塾大学工学部,中西 正和,"NAKANISHI,MASAKAZU"
+11,浮動小数点演算の誤差評価と誤差消失について (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-11.pdf,富士通,山下 眞一郎,"YAMASHITA,SHINICHIRO"
+12,Statistical Regularization of a Noisy Ill-Conditioned System of Linear Equations by Akaike's Information Criterion (計算の手間と能率化),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0215-12.pdf,統計数理研究所,田辺 国士,"TANABE,KUNIO"

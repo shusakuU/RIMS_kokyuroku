@@ -1,0 +1,35 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,一変数多項式因数分解のための並列計算系について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-01.pdf,"三菱総合研究所,東京大学大型計算機センター",",","藤瀬 哲朗,村尾 裕一"
+2,Ring Story 1,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-02.pdf,",",",","Wang,Dinkan,Kobayashi,Hidetsune"
+3,連立代数方程式の減次の可能性について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-03.pdf,"東京職業能力開発短期大学情報処理科,日本大学理工学部数学科","鈴木 秀男,小林 英恒","Suzuki,Hideo,Kobayashi,Hidetsune"
+4,数式処理による行列の有理標準形からJacobson標準形への変換行列の計算法(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-04.pdf,"筑波大学電子・情報工学系,図書館情報大学図書館情報学部","栗山 和子,森継 修一","Kuriyama,Kazuko,Moritsugu,Shuichi"
+5,微分作用素を用いた有理関数の留数計算とHorowitz's algorithm(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-05.pdf,"新潟大学工学部情報工学科,お茶の水女子大学大学院人間文化研究科複合領域科学専攻",",","田島 慎一,中村 弥生"
+6,Dynamics of skew tent maps,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-06.pdf,"お茶の水女子大学大学院理学研究科情報科学専攻,お茶の水女子大学大学院理学研究科情報科学専攻","市村 圭子,伊藤 みちほ","ICHIMURA,Keiko,ITO,Michiho"
+7,Von Neumann regular ring上の多項式環におけるグレブナー基底について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-07.pdf,立命館大学理工学部情報学科,,佐藤 洋祐
+8,Simple K3 特異点方程式について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-08.pdf,"神戸大学総合人間科学研究科,神戸大学発達科学部","門脇 圭治,高橋 正","Kadowaki,Keiji,Takahashi,Tadashi"
+9,数式処理システムによる非線形計画問題の3次元グラフィックス表現について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-09.pdf,,笠嶋 友美,"Kasajima,Tomomi"
+10,数式処理の実射影平面上N本直線配置問題への応用事例(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-10.pdf,"武庫川女子大学生活環境学部,姫路工業大学理学部","福井 哲夫,関口 次郎","Fukui,Tetsuo,Sekiguchi,Jiro"
+11,退化放物型方程式の近似一般解の構成とその誤差評価(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-11.pdf,"群馬大学工学部,群馬大学工学部","天野 一男,シャリフ・アドミ","Amano,Kazuo,Syarif,Admi"
+12,過小代数制約評価系とその機械設計への応用(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-12.pdf,機械技術研究所,,沢田 浩之
+13,定係数偏微分作用素のフーリエ表現を用いた数値(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-13.pdf,東北工業技術研究所,,米谷 道夫
+14,誤差項を含む1変数多項式の根の誤差上界(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-14.pdf,"筑波大学大学院数学研究科,筑波大学数学系","照井 章,佐々木 建昭","Terui,Akira,Sasaki,Tateaki"
+15,多変数多項式の近似因数分解とその計算量(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-15.pdf,"筑波大学大学院数学研究科,筑波大学数学系","長坂 耕作,佐々木 建昭","Nagasaka,Kosaku,Sasaki,Tateaki"
+16,浮動小数係数の多変数多項式のHensel構成の誤差解析(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-16.pdf,"筑波大学大学院理工学研究科,筑波大学数学系","山口 哲,佐々木 建昭","Yamaguchi,Satoshi,Sasaki,Tateaki"
+17,浮動小数係数多変数多項式の終結式計算における桁落ち誤差(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-17.pdf,"筑波大学大学院教育研究科,筑波大学数学系",",","佐藤 智之,佐々木 建昭"
+18,近似根の応用について(その3)(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-18.pdf,筑波大学数学系,,北本 卓也
+19,近似的GCDとハイブリッド有理関数近似の誤差の関係について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-19.pdf,"愛媛大学,上智大学,愛媛大学","甲斐 博,齋藤 友克,野田 松太郎","Kai,Hiroshi,Saito,Tomokatsu,Noda,Matu-Tarow"
+20,ある種の非線形計画問題の代数的解法について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-20.pdf,"愛媛大学工学部,愛媛大学工学部,上智大学理工学部,愛媛大学工学部","白石 啓一,甲斐 博,齋藤 友克,野田 松太郎","Shiraishi,Kei-ichi,Kai,Hiroshi,Saito,Tomokatsu,Noda,Matu-Tarow"
+21,On Solving Semidefinite Programming by Quantifier Elimination,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-21.pdf,"High Performance Computing Research Center,FUJITSU LABORATORIES LTD.",,"ANAI,HIROKAZU"
+22,加群の積分とその応用(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-22.pdf,"横浜市立大学理学部数学,神戸大学理学部数学","大阿久 俊則,高山 信毅","Oaku,Toshinori,Takayama,Nobuki"
+23,安定化理論の新しい使い道(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-23.pdf,NTTコミュニケーション科学研究所,白柳 潔,"Shirayanagi,Kiyoshi"
+24,浮動小数演算に基づく安定化理論計算システムの作成(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-24.pdf,"愛媛大学工学部,愛媛大学工学部,愛媛大学工学部","水口 寛之,甲斐 博,野田 松太郎","Minakuchi,Hiroyuki,Kai,Hiroshi,Noda,Matu-Tarow"
+25,$\mathit{p}$進近似を利用した代数的数の取り扱い(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-25.pdf,NTTコミュニケーション科学研究所,関川 浩,"Sekigawa,Hiroshi"
+26,浮動小数点計算を用いた代数的数の符号判定(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-26.pdf,"東京大学大学院工学系研究科,NTTコミュニケーション科学研究所","日吉 久礎,関川 浩","Hiyoshi,Hisamoto,Sekigawa,Hiroshi"
+27,数式処理システム「Mathematica」にインタラクティブ機能を組み込む(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-27.pdf,筑波大学体育科学系,宮地 力,"Miyaji,Chikara"
+28,Java による数式処理(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-28.pdf,電子技術総合研究所,元吉 文男,"Motoyoshi,Fumio"
+29,数式処理システムのHomePage上での利用(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-29.pdf,"神戸大学大学院教育学研究科,神戸大学発達科学部","杉山 武志,高橋 正","Sugiyama,Takeshi,Takahashi,Tadashi"
+30,グラフ電卓上の数式処理システムの数学教育への活用について(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-30.pdf,"神戸大学大学院教育学研究科,神戸大学発達科学部","林 正隆,高橋 正","Hayashi,Masataka,Takahashi,Tadashi"
+31,Analytical Solitary Wave Solutions for the Nonlinear Schrodinger Equation Coupled to the Korteweg-de Vries Equation,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-31.pdf,"Department of Mathematics,Lanzhou University",,"LI,ZHIBIN"
+32,A Class of Generalized Cyclic Codes,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-32.pdf,"Institute of Systems Science,Academia Sinica",,"Liu,Zhuojun"
+33,"Atkin,Elkies らによる Schoof のアルゴリズム改良の実装について(数式処理における理論と応用の研究)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-33.pdf,"富士通(株),(株)富士通研究所,(株)富士通研究所","小暮 淳,伊豆 哲也,横山 和弘","Kogure,Jun,Izu,Tetsuya,Yokoyama,Kazuhiro"
+34,Risa / Asir による modular polynomial の計算(数式処理における理論と応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1038-34.pdf,富士通研究所HPC研究センター,,伊豆 哲也

@@ -1,0 +1,12 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,数値解析とカオス (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-01.pdf,京都大学理学部,山口 昌哉,"YAMAGUCHI,MASAYA"
+2,塑性問題における有限要素解の収束性について (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-02.pdf,熊本大理学部,三好 哲彦,"MIYOSHI,TETSUHIKO"
+3,摂動固有値問題の有限要素解析 (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-03.pdf,"東京大学宇宙航空研究所,東京大学宇宙航空研究所,東京大学大学院","菊地 文雄,相澤 龍彦,宇津野 秀夫","KIKUCHI,FUMIO,AIZAWA,TATSUHIKO,UTSUNO,HIDEO"
+4,2次元Euler方程式の外部問題 (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-04.pdf,東京大学教養学部,菊地 慶祐,"KIKUCHI,KEISUKE"
+5,On the Spatial Decay of Incompressible Viscous Fluid Motion Past Objects (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-05.pdf,東京大学教養学部,水町 竜一,"MIZUMACHI,RYUICHI"
+6,$L_r$空間におけるNavier-Stokes初期値問題 (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-06.pdf,広島大学理学部,宮川 鉄朗,"MIYAKAWA,TETSURO"
+7,Capillary Surfaces in the Abscence of Gravity : The Trapezoidal Capillary Tube (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-07.pdf,Stanford University,,"FINN,ROBERT"
+8,Boltzmann方程式の外部定常流解の存在と安定性 (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-08.pdf,"大阪市立大学工学部,京都大学教養部","鵜飼 正二,浅野 潔","UKAI,SEIJI,ASANO,KIYOSHI"
+9,ある非適合一次要素による移流拡散問題の有限要素近似について (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-09.pdf,富山商船高等専門学校,大森 克史,"OMORI,KATSUSHI"
+10,移流拡散問題の有限要素近似 : 空間3次元問題への拡張 (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-10.pdf,電力中央研究所,池田 勉,"IKEDA,TSUTOMU"
+11,水平粘性項をもつ浅水波方程式系について : 定式化と保存則 (偏微分方程式の応用と数値解析),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0430-11.pdf,"富士ファコム制御,電気通信大学","金山 寛,牛島 照夫","KANAYAMA,HIROSHI,USHIJIMA,TERUO"

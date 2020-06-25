@@ -1,0 +1,13 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,根号による1のn乗根の解法(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-01.pdf,電子技術総合研究所,元吉 文男,"Motoyoshi, Fumio"
+2,GROBNER BASIS OF IDEAL OF CONVERGENT POWER SERIES,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-02.pdf,"Department of Mathematics, Nihon University,Department of Mathematics, Tokyo Metropolitan University,The Institute of Physical and Chemical Research","小林 英恒,古川 昭夫,佐々木 建昭","Kobayashi, H.,Furukawa, A.,Sasaki, T."
+3,"Grobner Basis of a Module over K[x$_1$,...,x$_n$] and Polynomial Solutions of a System of Linear Equations",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-03.pdf,"Department of Mathematics, Tokyo Metropolitan University,The Institute of Physical and Chemical Research,Department pf Mathematics, Nihon University","古川 昭夫,佐々木 建昭,小林 英恒","Furukawa, A.,Sasaki, T.,Kobayashi, H."
+4,An Algorithm for the Normal Forms,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-04.pdf,"Department of Science, Gunma Technical College",高橋 正,"Takahashi, Tadashi"
+5,REDUCEによる偏微分方程式の保存量の計算(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-05.pdf,"広島大学工学部,広島大学工学部","伊藤 雅明,加古 富志雄","Ito, Masaaki,Kako, Fujio"
+6,ある非線形波動方程式の解の予想(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-06.pdf,広島大学工学部,広田 良吾,"Hirota, Ryogo"
+7,ある非線形波動方程式の解の予想 II(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-07.pdf,広島大学工学部,広田 良吾,"Hirota, Ryogo"
+8,温度グリーン関数の自動作成について(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-08.pdf,岡山理科大学応用数学科,坂本 薫,"Sakamoto, Kaoru"
+9,2次形式統計量の分布の高次漸近展開(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-09.pdf,"統計数理研究所,統計数理研究所","仁木 直人,小西 貞則","Niki, Naoto,Konishi, Sadanori"
+10,An Implementation of the Formula Manipulation Package in Common Lisp,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-10.pdf,"慶応義塾大学,慶応義塾大学","永田 守男,阿部 昌子","Nagata, Morio,Abe, Masako"
+11,ICAS機能の作成(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-11.pdf,"大阪電気通信大学,大阪電気通信大学","対馬 勝英,佐藤 季弘","Tsushima, Katsuhide,Satou, Toshihiro"
+12,国産数式処理システムGALにおけるパターンマッチング(数式処理と数学研究への応用),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0581-12.pdf,"理化学研究所,電子技術総合研究所","佐々木 建昭,元吉 文男","SASAKI, TATEAKI,MOTOYOSHI, FUMIO"

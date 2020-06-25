@@ -1,0 +1,17 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,標本数を漸増する補間型積分則の重みの正値性について(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-01.pdf,"福井大学工学部,名古屋大学工学部,名古屋大学工学部","長谷川 武光,杉浦 洋,鳥居 達生","Hasegawa, Takemitsu,Sugiura, Hiroshi,Torii, Tatsuo"
+2,DE変換公式の最適性について II(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-02.pdf,一橋大学経済学部,杉原 正顕,"Sugihara, Masaaki"
+3,スプライン関数を用いた多次元データの補間 : スペクトル計算機向きの計算技術(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-03.pdf,明石高等専門学校,吉本 富士市,"Yoshimoto, Fujiichi"
+4,IBM3090VF に適した数値計算法(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-04.pdf,日本アイ・ビー・エム(株),寒川 光,"Samukawa, Hikaru"
+5,複雑な条件分岐をもつ解析ソフトの高速化(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-05.pdf,"東芝CAEシステムズ,東芝CAEシステムズ,東芝","福井 義成,吉田 浩俊,肥後野 恵史","Fukui, Yoshinari,Yoshida, Hirotoshi,Higono, Shigefumi"
+6,Runge-Kutta 系極限公式からの近似公式(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-06.pdf,千葉大学工学部,小野 令美,"Ono, Harumi"
+7,DK法の初期値について(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-07.pdf,"筑波大学電子情報工学系,日本DEC,筑波大学電子情報工学系","中田 多美,川本 則行,名取 亮","Nakata, Tami,Kawamoto, Noriyuki,Natori, Makoto"
+8,Newton-Raphson法と Raphsonの数値例(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-08.pdf,"日本大学農獣医学部,職業訓練大学電子技術科","五十嵐 正夫,室伏 誠","Igarashi, Masao,Murofushi, Makoto"
+9,ある6次方程式の数値解法(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-09.pdf,"柳韓工業専門大学,京都大学数理解析研究所","朴 鳳圭,一松 信","Park, Bong-kyu,Hitotumatu, Sin"
+10,静電場的解釈に基く代数方程式の解法とその応用(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-10.pdf,"名古屋大学工学部情報工学科,名古屋大学工学部情報工学科,名古屋大学工学部情報工学科",",,","櫻井 鉄也,杉浦 洋,鳥居 達生"
+11,INDEFINITEな行列系に対するCGS法(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-11.pdf,慶應義塾大学理工学部,,野寺 隆
+12,On the effectiveness of the method of regularization : In the Case of Numerical Harmonic Continuation(Fundamental Numerical Algorithms and Their Software),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-12.pdf,愛媛大学理学部,北川 高嗣,"Kitagawa, Takashi"
+13,制約条件付き最小二乗問題に対するSQP法の適用とそのソフトウェア(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-13.pdf,"システム計画研究所,東京理科大学工学部,東京理科大学理学部","八巻 直一,矢部 博,高橋 悟[他]","Yamaki, Naokazu,Yabe, Hiroshi,Takahashi, Satoru"
+14,高速自動微分法のためのプリプロセッサ : 実際の問題への応用例と問題点(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-14.pdf,東京大学工学部計数工学科,久保田 光一,"Kubota, Koichi"
+15,偏導関数の計算過程を導出するための前処理システムの改良(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-15.pdf,千葉大学工学部,吉田 利信,"Yoshida, Toshinobu"
+16,非線形最適化問題の数値解法への偏導関数自動導出システムの応用(数値計算基本アルゴリズムとそのソフトウェアの研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0648-16.pdf,"千葉大学工学部,千葉大学工学部","山下 稔,吉田 利信","Yamashita, Minoru,Yoshida, Toshinobu"

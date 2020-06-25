@@ -1,0 +1,13 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,推定尤度関数と稜線推定量の一般化 (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-01.pdf,大阪大学基礎工学部,稲垣 宣生,"INAGAKI,NOBUO"
+2,Le Camによる一定理の証明について (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-02.pdf,広島大学総合科学部,間瀬 茂,"MASE,SHIGERU"
+3,密度関数の推定について (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-03.pdf,東京工業大学理学部,柴田 里程,"SHIBATA,RITEI"
+4,Prediction Sufficiency and Its Relation to Sequential Estimation (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-04.pdf,電気通信大学,赤平 昌文,"AKAHIRA,MASAFUMI"
+5,非正則條件の下での局所最小分散不偏推定量 (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-05.pdf,東京大学経済学部,竹内 啓,"TAKEUCHI,KEI"
+6,平均が既知の正規分布の分散の同時推定と母数に線形不等式制約のある場合のStein推定量 (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-06.pdf,"慶応義塾大学工学部,慶応義塾大学工学部","篠崎 信雄,張 元宗","SHINOZAKI,NOBUO,CHO,GENSO"
+7,Essential Completeness of the Class of Monotone Decision Procedures in Estimation Problems (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-07.pdf,熊本大学工学部,橋本 勲,"HASHIMOTO,ISAO"
+8,変化点の推定 (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-08.pdf,"日本IBM,東京大学工学部","渋谷 政昭,柴田 義貞","SHIBUYA,MASAAKI,SHIBATA,YOSHISADA"
+9,点過程を出力する線形因果モデル (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-09.pdf,統計数理研究所,尾形 良彦,"OGATA,YOSHIHIKO"
+10,Robust Regression and Interpolation for Time Series (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-10.pdf,広島大学工学部,谷口 正信,"TANIGUCHI,MASANOBU"
+11,Sufficiency and Relative Entropy (統計的推定論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-11.pdf,東京理科大学理工学部,日合 文雄,"HIAI,FUMIO"
+12,"$\Lambda(\mu,\sigma^2),\Delta(\delta,\mu,\sigma^2)$およびその他の分布におけるUMVU推定 (統計的推定論)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0380-12.pdf,"東京理科大学理工学部,東京理科大学理学部","清水 邦夫,岩瀬 晃盛","SHIMIZU,KUNIO,IWASE,KOSEI"

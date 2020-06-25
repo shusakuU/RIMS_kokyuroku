@@ -1,0 +1,17 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,乱数生成のためのプログラム・パッケージ(R-PACK)の試作(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-01.pdf,筑波大学,逆瀬川 浩孝,"SAKASEGAWA, Hirotaka"
+2,乱数の発生・変換について(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-02.pdf,統計数理研究所,仁木 直人,"Niki, Naoto"
+3,乱数パッケージの設計(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-03.pdf,慶應義塾大学理工学部,西村 和夫,"Nishimura, Kazuo"
+4,単純非復元抽出のための乱数(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-04.pdf,慶應義塾大学理工学部数理科学科,渋谷 政昭,"SIBUYA, MASAAKI"
+5,一様乱数発生ルーチンRANU3の誤りとその改善法(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-05.pdf,京都大学工学部,津田 孝夫,"Tsuda, Takao"
+6,場の理論のモンテカルロ計算における乱数(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-06.pdf,筑波大学電子情報工学系,小柳 義夫,"Oyanagi, Yoshio"
+7,"円周率800万桁及び$\frac{1}{\sqrt{2}} , \sqrt{2}$ 1600万桁の検定・統計結果(乱数プログラム・パッケージ)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-07.pdf,東京大学大型計算機センター,金田 康正,"Kanada, Yasumasa"
+8,物理乱数の発生とその性質(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-08.pdf,"大阪電機通信大学,岡山理科大学","宮武 修,一村 稔","Miyatake, Osamu,Ichimura, Minoru"
+9,M系列に基づく一様乱数の生成法(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-09.pdf,東京大学工学部,伏見 正則,"Fushimi, Masanori"
+10,M系列による一様乱数の高次一様性の改善(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-10.pdf,九州工業技術試験所,泉 照之,"Izumi, Teruyuki"
+11,M系列の部分的性質を考慮した一様乱数の発生(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-11.pdf,熊本大学工学部,柏木 濶,"Kashiwagi, Hiroshi"
+12,M系列のL-tupleのweight distributionの偏りについて(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-12.pdf,計量研究所,栗田 良春,"KURITA, Y."
+13,グラフィカルな立場からの適合度検定法(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-13.pdf,岡山大学,,脇本 和昌
+14,M系列に基く一様乱数の多次元ランダムネスの検定(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-14.pdf,"岡山理科大学,林野高等学校","山本 英二,菅野 長武","Yamamoto, Eiji,Sugano, Osamu"
+15,ポテンシャル法による乱数の検定(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-15.pdf,筑波大学電子・情報工学系,三好 和憲,"Miyoshi, Kazunori"
+16,いくつかの合同型一様乱数生成式のスペクトル検定結果について(乱数プログラム・パッケージ),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0498-16.pdf,計算研究所,栗田 良春,"KURITA, Y."

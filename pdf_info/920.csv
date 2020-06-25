@@ -1,0 +1,28 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,逐次代数拡大体上での1変数多項式のGCDについて(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-1.pdf,富士通情報研究所,,野呂 正行
+2,Radical Representation of Polynomial Roots,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-2.pdf,"富士通情報研究所,富士通情報研究所",",","穴井 宏和,横山 和弘"
+3,Some Computations over Successive Algebraic Extension Fields,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-3.pdf,"日本大学理工学部,日本大学理工学部",",,","小林 英恒,(,Lin, Dongdai)"
+4,Diophantine近似グレブナ基底の計算(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-4.pdf,"NTT コミュニケーション科学基礎研究所,NTT コミュニケーション科学基礎研究所",",","関川 浩,白柳 潔"
+5,MapleのInterval Packageを用いた浮動小数グレブナ基底の計算(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-5.pdf,"京都大学理学部,NTT コミュニケーション科学基礎研究所",",","尾崎 英司,白柳 潔"
+6,ブール多項式環上のグレブナー基底の諸性質について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-6.pdf,立命館大学理工学部,,佐藤 洋祐
+7,Fraction-freeによる行列式の計算効率(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-7.pdf,"工学院大学電気系,工学院大学工学部共通課程数学教室,工学院大学電子工学科","木下 孝,牧野 潔夫,三好 和憲","Kinoshita, Takashi,Makino, Isao,Miyoshi, Kazunori"
+8,近似的GCDとPade近似の関係(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-8.pdf,"愛媛大学工学部,愛媛大学工学部",",","甲斐 博,野田 松太郎"
+9,近似代数を用いた制御系解析と設計(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-9.pdf,筑波大学数学系,,北本 卓也
+10,集団遺伝学に現れる退化放物型偏微分方程式に対する数値 : 数式ハイブリッド法(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-10.pdf,城西大学理学部,天野 一男,"Amano, Kazuo"
+11,Primal-Dual Combinatorial Relaxation Algorithms for the Maximum Degree of Subdeterminants,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-11.pdf,",,","岩田 覚,室田 一雄,作田 泉","IWATA, Satoru,MUROTA, Kazuo,SAKUTA, Izumi"
+12,近似代数その1 : 近似多項式の四則演算(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-12.pdf,筑波大学数学系,,佐々木 建昭
+13,近似代数その2 : 1変数多項式の近似GCDの一般論(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-13.pdf,"筑波大学数学系,理化学研究所",",","佐々木 建昭,佐々木 睦子"
+14,Computation of Essentially Different Puiseux Expansions via Extended Hensel Construction,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-14.pdf,筑波大学数学系,,椎原 浩輔
+15,$\mathbf[Z}_p$上の多項式の因数分解 : 高速化技法・ベクトル処理・並列処理(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-15.pdf,東京大学,,村尾 裕一
+16,並列論理型言語処理系KLICによるPARIの並列化(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-16.pdf,ICOT,,藤瀬 哲朗
+17,高速乗算システムの実現(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-17.pdf,電子技術総合研究所知能情報部,,元吉 文男
+18,陰関数描画に関する一つの試み(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-18.pdf,"詫間電波高等専門学校,埼玉女子短期大学,上智大学",",,","近藤 祐史,三好 善彦,齋藤 友克"
+19,An Introduction to MAGMA,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-19.pdf,弘前大学理学部,,脇 克志
+20,Mosaicによる数式処理を用いた教育 : MSSGプロジェクト(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-20.pdf,"神戸大学発達科学部,神戸大学教育学研究科,神戸大学教育学研究科","高橋 正,橋場 弘和,井林 憲一","Takahashi, Tadashi,Hashiba, Hirokazu,Ibayashi, Ken-ichi"
+21,初等解を持つある2階線形常微分方程式について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-21.pdf,上智大学大学院,,吉田 章宏
+22,実2次有理関数族のモジュライ空間について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-22.pdf,日本大学理工学部数学科,藤村 雅代,"FUJIMURA, Masayo"
+23,分数変換による近接根の分離について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-23.pdf,"日本大学理工学部数学科,東京職業能力開発短期大学情報処理科",",","小林 英恒,鈴木 秀男"
+24,$W(E_7)$-invariant polynomial of degree 10 and 28 bitangents of plan equartic curves,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-24.pdf,電気通信大学,,関口 次郎
+25,COMPLEX DYNAMICAL SYSTEMS : ALGEBRAIC CURVES IN THE CUBIC MAPS,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-25.pdf,"DEP. MATH. FAC. SCI. JOSAI UNIV.,DEP. MATH. SHIRAYURI GAKUENN",",","NISHIZAWA, Kiyoko,NOJIRI, Asako"
+26,On the Weights of Simple K3 Singularities,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-26.pdf,"神戸大学教育学研究科,神戸大学発達科学部","井林 憲一,高橋 正","Ibayashi, Ken-ichi,Takahashi, Tadashi"
+27,Cylindrical Algebraic Decomposition と実代数制約(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0920-27.pdf,富士通情報研究所,,下山 武司

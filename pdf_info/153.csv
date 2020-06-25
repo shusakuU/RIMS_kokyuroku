@@ -1,0 +1,13 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,解析関数の多項式近似とその誤差解析 (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-01.pdf,"京都大学数理解析研究所,東京大学大型計算機センター","森 正武,名取 亮","MORI,MASATAKE,NATORI,MAKOTO"
+2,漸化式と連分数 : 誤差函数の積分を例として (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-02.pdf,京都大学数理解析研究所,一松 信,"HITOTSUMATSU,SHIN"
+3,新統計数値表について (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-03.pdf,"電子技術総合研究所,慶応義塾大学工学部","戸田 英雄,竹内 寿一郎","TODA,HIDEO,TAKEUCHI,JUICHIRO"
+4,浮動小数点型演算による反復法のComponent-Wiseな誤差解析 (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-04.pdf,九州大学理学部,占部 実,"URABE,MINORU"
+5,数値計算中の情報喪失について (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-05.pdf,日本大学理工学部,永坂 秀子,"NAGASAKA,HIDEKO"
+6,有限桁計算における計算誤差と計算限界について (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-06.pdf,日本大学理工学部,山下 眞一郎,"YAMASHITA,SHINICHIRO"
+7,非線型整数計画法について (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-07.pdf,中央大学理工学部,西見 ニ昭,"NISHIMI,JISHO"
+8,Superinversesと単調反復法 (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-08.pdf,早稲田大学理工学部,室谷 義昭,"MUROYA,YOSHIAKI"
+9,4次方程式 : Ferrari法 (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-09.pdf,東芝,平野 菅保,"HIRANO,SUGAYASU"
+10,Cardano法の改良と高次代数方程式の解法に関する一つの試みについて (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-10.pdf,青山学院大学理工学部,馬渡 鎮夫,"MAWATARI,SHIZUO"
+11,連立非線型方程式の数値解法概観 (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-11.pdf,京都産業大学,戸川 隼人,"TOGAWA,HAYATO"
+12,一階非線型偏微分方程式の初期値問題 (数値解析の基礎理論とくに誤差解析の技法と実例),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0153-12.pdf,早稲田大学理工学部,小島 清史,"KOJIMA,KIYOFUMI"

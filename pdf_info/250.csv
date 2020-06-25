@@ -1,0 +1,10 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,補外法による加速について (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-01.pdf,電気通信大学,花田 孝郎,"HANADA,TAKAO"
+2,数値微分の精度 (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-02.pdf,"日本大学理工学部,東芝電子計算機事業部","永坂 秀子,福井 義成","NAGASAKA,HIDEKO,FUKUI,YOSHINARI"
+3,正規分布関数の計算 (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-03.pdf,"電子技術総合研究所,都立農芸高等学校","戸田 英雄,小野 令美","TODA,HIDEO,ONO,HARUMI"
+4,区分的3次関数を用いたデータ平滑化 : 節点の決定について (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-04.pdf,"明石工業高等専門学校,京都大学工学部,京都大学工学部","吉本 富士市,市田 浩三,清野 武","YOSHIMOTO,FUJIICHI,ICHIDA,KOZO,KIYONO,TAKESHI"
+5,浮動小数点数の「けち表現」について (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-05.pdf,東京工業大学情報科学科,小木曽 治比古,"OGISO,HARUHIKO"
+6,大規模線型計画問題の緩和法による解法 (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-06.pdf,統計数理研究所,田辺 国士,"TANABE,KUNIO"
+7,反復法による積分方程式の数値解法 (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-07.pdf,"三菱電気中央研究所,三菱電気中央研究所,三菱電気中央研究所","下地 貞夫,佐々木 佳子,西口 憲一","SHIMOJI,SADAO,SASAKI,KEIKO,NISHIGUCHI,KENICHI"
+8,On the Propagation of Error in Numerical Integrations (計算の手間とデ-タ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-08.pdf,鹿児島大学,中島 正治,"NAKASHIMA,MASAHARU"
+9,計算の手間の評価とプログラムの動的解析システム (計算の手間とデータ構造),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0250-09.pdf,"九州大学工学部,九州大学工学部","牛島 和夫,藤村 直美","USHIJIMA,KAZUO,FUJIMURA,NAOMI"

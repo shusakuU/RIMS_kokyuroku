@@ -1,0 +1,31 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,On Solving the Initial Problem of LR Arrays,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-1.pdf,"日本大学理工学部,日本大学理工学部",",小林 英恒","Lin, Dongdai,"
+2,多項式環上の素イデアル分解について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-2.pdf,"富士通情報研究所,富士通情報研究所,富士通情報研究所",",,","下山 武司,野呂 正行,横山 和弘"
+3,三斜内容三圓術(Malfattiの問題)の数式処理 : 有理関数体上のタワーの構成(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-3.pdf,"富士通情報研究所,富士通情報研究所",",","竹島 卓,穴井 宏和"
+4,The affine algebraic curve of Newton maps in Przytycki's cubic rational maps,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-4.pdf,"Dept. Math. Josai Univ.,College of Sci. and Tech., Nihon Univ.",",","NISHIZAWA, Kiyoko,FUJIMURA, Masayo"
+5,Non-monotone Bifurcation on Quadratic Rational Families,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-5.pdf,"College of Sci. and Tech., Nihon Univ.",,"FUJIMURA, Masayo"
+6,ミルナーの方法によるMandelbrot集合の自己相似性について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-6.pdf,上智大学理工学部,,小林 美千代
+7,Bimodular Type Simple K3 Singularities,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-7.pdf,神戸大学発達科学部,,高橋 正
+8,An algorithm of computing $b$-functions,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-8.pdf,横浜市立大学理学部,,大阿久 俊則
+9,$A_5$をGalois群に持つ6次式の族 : 分解体とGalois群の計算(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-9.pdf,"富士通情報研究所,東京女子大学",",","穴井 宏和,近藤 武"
+10,Computational Group Theoryへの招待(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-10.pdf,富山工業高等専門学校,,藤本 光史
+11,Generalized Shape LemmaのHensel構成による計算(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-11.pdf,富士通情報研究所,,野呂 正行
+12,特殊関数のデータ・ベース化について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-12.pdf,"日本大学理工学部,日本大学理工学部",",","石引 健治,小林 英恒"
+13,並列DDFアルゴリズム(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-13.pdf,"三菱総合研究所,東京大学大型計算機センター",",","藤瀬 哲朗,村尾 裕一"
+14,Massively Parallel Computer Algebra for Control Engineering by Using SIMD parallel computer,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-14.pdf,"豊橋技術科学大学,豊橋技術科学大学,豊橋技術科学大学",",,","SAITO, Osami,Watanabe, Atsushi,YUASA, Taiichi"
+15,モジュラー計算の擬似並列実行(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-15.pdf,"筑波大学,筑波大学,筑波大学",",,","佐渡 貴宏,秡川 友宏,佐々木 建昭"
+16,代数曲線のパラメータ表示について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-16.pdf,筑波大学,,椎原 浩輔
+17,多変数Puiseux級数の演算及びその応用(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-17.pdf,筑波大学,,片町 健太郎
+18,数式処理の非線形系制御への応用について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-18.pdf,筑波大学数学系,,北本 卓也
+19,高速多項式GCD計算法(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-19.pdf,電子技術総合研究所,,元吉 文男
+20,一般逆行列の計算アルゴリズムとその証明(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-20.pdf,"工学院大学工学部,工学院大学工学部",",","齊藤 敏明,牧野 潔夫"
+21,組み糸の自動生成とその線画について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-21.pdf,"岡山理科大学大学院,岡山理科大学,岡山理科大学",",,","河野 洋敏,坂本 薫,仁木 滉[他]"
+22,有効数係数多項式(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-22.pdf,岩手大学工学部,,鈴木 正幸
+23,近似計算による代数的数の符号判定について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-23.pdf,NTT コミュニケーション科学基礎研究所,,関川 浩
+24,次数低下した有理関数の誤差評価(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-24.pdf,"愛媛大学工学部,愛媛大学大学院,愛媛大学工学部",",,","甲斐 博,菅野 幸夫,野田 松太郎"
+25,集団遺伝学に現れる退化放物型偏微分方程式に対する数値 : 数式ハイブリッド法II(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-25.pdf,城西大学理学部,,天野 一男
+26,数式処理による2変数代数曲面の追跡Hessianが零になる点の近傍の状態(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-26.pdf,"東京電機大学理工学部,上智大学理工学部","一松 信,笠嶋 友美","Hitotumatu, Sin,Kasajima, Tomomi"
+27,代数関数の陰関数描画について(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-27.pdf,"筑波大学,筑波大学",",","照井 章,佐々木 建昭"
+28,ifplotアルゴリズム(数式処理における理論とその応用の研究),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-28.pdf,"上智大学,埼玉女子短期大学,詫間電波高等専門学校",",,","齋藤 友克,三好 善彦,近藤 祐史"
+29,Mathematical Notation Understanding Methodology,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-29.pdf,"久留米工業大学知能工学研究所,筑波大学電子・情報工学系,名古屋大学工学部","趙 燕結,櫻井 鉄也,杉浦 洋[他]","Zhao, Yanjie,Sakurai, Tetsuya,Sugiura, Hiroshi"
+30,On the Use of Computer Algebra Systems in Mathematics Education,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0941-30.pdf,"神戸大学教育学研究科,神戸大学教育学研究科,神戸大学教育学研究科",",,","高橋 正,橋場 弘和,出口 博章[他]"

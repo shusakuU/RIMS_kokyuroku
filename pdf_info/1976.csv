@@ -1,0 +1,13 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,近似GCDにおける逐次的なQR分解法とその実装について (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-01.pdf,神戸大学人間発達環境学研究科,長坂 耕作,"Nagasaka,Kosaku"
+2,区間演算を用いたQRGCD法 (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-02.pdf,東京理科大学大学院理学研究科,沼畑 大,"Numahata,Dai"
+3,Asirでの3変数陰関数描画について (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-03.pdf,"香川高等専門学校,サレジオ工業高等専門学校,電気通信大学情報理工学研究科,株式会社アルファオメガ","近藤 祐史,大墨 礼子,村尾 裕一,齋藤 友克","Kondoh,Yuji,Osumi,Noriko,Murao,Hirokazu,Saito,Tomokatsu"
+4,実数領域における包括的グレブナー基底系と限量子消去 (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-04.pdf,東京理科大学理学研究科,深作 亮也,"Fukawaku,Ryoya"
+5,実閉体上の非冠頭標準形論理式に対する限量記号消去における部分論理式の処理順序と計算効率 (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-05.pdf,"筑波大学大学院数理物質科学研究科,株式会社富士通研究所・国立情報学研究所","小林 宗広,岩根 秀直","Kobayashi,Munehiro,Iwane,Hidenao"
+6,非等式制約に対する実閉体上の限量記号消去 (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-06.pdf,株式会社富士通研究所・国立情報学研究所,岩根 秀直,"Iwane,Hidenao"
+7,初等幾何学の階層付けと自動定理証明 (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-07.pdf,東京理科大学理学部,佐藤 洋祐,"Sato,Yosuke"
+8,多変数Pade近似とその制御系設計への応用 (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-08.pdf,山口大学教育学部,北本 卓也,"Kitamoto,Takuya"
+9,Circumscribed and inscribed ellipses induced by Blaschke products of degree 3 (Developments in Computer Algebra Research),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-09.pdf,防衛大学校数学教育室,藤村 雅代,"Fujimura,Masayo"
+10,行列Horner法の並列化による行列の固有ベクトル計算の効率化について (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-10.pdf,"筑波大学数理物質系,金沢大学理工研究域,筑波大学数理物質系","田島 慎一,小原 功任,照井 章","Tajima,Shinichi,Ohara,Katsuyoshi,Terui,Akira"
+11,Bruce-Robertsミルナー数の計算アルゴリズム (数式処理研究の新たな発展),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-11.pdf,"筑波大学大学院数理物質系数学域,徳島大学大学院ソシオ・アーツ・アンド・サイエンス研究部","田島 慎一,鍋島 克輔","Tajima,Shinichi,Nabeshima,Katsusuke"
+12,"偏微分作用素環での包括的グレブナー基底系とホロノミー$D$-加群, $b$-関数 (数式処理研究の新たな発展)",http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1976-12.pdf,"徳島大学大学院ソシオ・アーツ・アンド・サイエンス研究部,筑波大学大学院数理物質系数学域","鍋島 克輔,田島 慎一","Nabeshima,Katsusuke,Tajima,Shinichi"

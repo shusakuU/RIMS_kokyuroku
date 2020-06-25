@@ -1,0 +1,18 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,実係数代数方程式の連立型解法とその静電場的解釈(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-01.pdf,"名古屋大学工学部,名古屋大学工学部,名古屋大学工学部","桜井 鉄也,鳥居 達生,杉浦 洋","Sakurai, Tetsuya,Torii, Tatsuo,Sugiura, Hiroshi"
+2,混合形近似式の最良化と関数値の計算(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-02.pdf,日立製作所中央研究所,浜田 穂積,"HAMADA, Hozumi"
+3,RUNGE-KUTTA法に関する二つの話題について(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-03.pdf,"山梨大学工学部計算機科学科,山梨大学工学部工学部計算機科学科,山梨大学工学部工学部計算機科学科","田中 正次,山下 忠志,高山 尚文[他]","Tanaka, Masatugu,Yamashita, Tadashi,Takayama, Naofumi"
+4,Mクラスの2点境界値問題における不動点近似法について(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-04.pdf,富士通(株)国際情報社会科学研究所,鈴木 千里,"Suzuki, Chisato"
+5,大規模回路シミュレーションに対する共役残差法の適用実験(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-05.pdf,"(株)日立製作所中央研究所,(株)日立製作所中央研究所,(株)日立製作所中央研究所","山本 富士男,梅谷 征雄,高橋 栄","Yamamoto, Fujio,Umetani, Yukio,Takahashi, Sakae"
+6,非圧縮性粘性流体解析コードへのMICCG法の適用(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-06.pdf,三洋電機(株)情報技術センター,,藤野 清次
+7,ICCG法と残差多項式(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-07.pdf,筑波大学電子情報工学系,森 正武,"Mori, Masatake"
+8,高橋・森のDE変換公式をある積分表示された関数に適用しその関数近似式を求めること(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-08.pdf,"千葉大学工学部,都立農芸高校","戸田 英雄,小野 令美","Toda, Hideo,Ono, Harumi"
+9,DE変換公式の最適性について(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-09.pdf,筑波大学電子情報工学系,杉原 正顕,"Sugihara, Masaaki"
+10,非解析的な関数を用いた変数変換型数値積分公式について(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-10.pdf,"東京大学工学部,筑波大学社会工学系,東京大学工学部","西井 修,室田 一雄,伊理 正夫","Nishii, Osamu,Murota, Kazuo,Iri, Masao"
+11,定数関数に対し正確な値を与えるIMT型数値積分公式(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-11.pdf,筑波大学社会工学系,室田 一雄,"Murota, Kazuo"
+12,一般化チェビシェフ補間に基づく多重積分(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-12.pdf,"福井大学工学部,名古屋大学工学部","長谷川 武光,鳥居 達生","Hasegawa, Takemitsu,Torii, Tatsuo"
+13,加速法による数値積分の計算の一例(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-13.pdf,中部大学,二宮 市三,"Ninomiya, Ichizo"
+14,不完全AD(HV)分解(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-14.pdf,京都大学工学部,野木 達夫,"Nogi, Tatsuo"
+15,対称3重対角行列に対する固有値問題のLax方程式を用いた並列アルゴリズムについて(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-15.pdf,"電子技術総合研究所,筑波大学情報学類","関口 智嗣,伊藤 一宏","SEKIGUCHI, Satoshi,ITOH, Kazuhiro"
+16,DKA法による固有値計算の試み(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-16.pdf,日本大学理工学部,戸川 隼人,"Togawa, Hayato"
+17,ランチョス法その後(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0585-17.pdf,"筑波大学電子情報工学系,慶應義塾大学数理科学科","名取 亮,野寺 隆","Natori, Makoto,Nodera, Takashi"

@@ -1,0 +1,17 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,総合技術としての数値計算(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-01.pdf,東京大学工学部計数工学科,,伊理 正夫
+2,有限要素法による非線形解析の現状と課題(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-02.pdf,東京工業大学工学部,吉田 裕,"Yoshida, Yutaka"
+3,Several Applications of Interval Mathematics to Electrical Network Analysis(Fundamental Technologies in Numerical Computation),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-03.pdf,"Department of Electrical Engineering II, Kyoto University",奥村 浩士,"OKUMURA, Kohshi"
+4,核融合プラズマの数値計算(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-04.pdf,日本原子力研究所,竹田 辰興,"Takeda, Tatsuoki"
+5,生体系逆問題とその応用(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-05.pdf,法政大学工学部,斎藤 兆古,"Saito, Yoshifuru"
+6,Eigenvalue analysis and Parallelization of the Multi-grid Preconditioned Conjugate Gradient Method(Fundamental Technologies in Numerical Computation),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-06.pdf,"Department of Information Science, Faculty of Science, the University of Tokyo",建部 修見,"Tatebe, Osamu"
+7,A Multi-level Iterative Linear Solver for Circuit Simulation(Fundamental Technologies in Numerical Computation),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-07.pdf,"Dept. Information Science, The University of Tokyo",須田 礼仁,"Suda, Reiji"
+8,ランチョス・プロセスに基づく積型反復解法とその一般化(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-08.pdf,"計算流体力学研究所,計算流体力学研究所",",","張 紹良,藤野 清次"
+9,無限コンパクト複素対称三重対角行列の固有値問題(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-09.pdf,"筑波大学電子・情報工学系,筑波大学電子・情報工学系,筑波大学電子・情報工学系","池辺 八洲彦,浅井 信吉,原田 稔[他]","Ikebe, Yasuhiko,Asai, Nobuyoshi,Harada, Minoru"
+10,Wavelets and their Applications(Fundamental Technologies in Numerical Computation),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-10.pdf,"IBM Research,IBM Research",",","Kobayashi, Mei,Sakamoto, Masaharu"
+11,疎行列解法概観(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-11.pdf,慶應義塾大学理工学部,野寺 隆,"Nodera, Takashi"
+12,非線形最小2乗問題に対する新しいクラスのBroyden族について(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-12.pdf,東京理科大学工学部,矢部 博,"Yabe, Hiroshi"
+13,個々のコンピュータ特性を考慮したプリプロセッサ用の最適化コードジェネレータ(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-13.pdf,"神奈川大学,システム計画研究所,専修大学","内田 智史,八巻 直一,本郷 茂[他]","Uchida, Satoshi,Yamaki, Naokazu,Hongo, Shigeru"
+14,Newton-Raphson系反復式の大域的性質と局所的性質(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-14.pdf,日本大学農獣医学部,五十嵐 正夫,"IGARASHI, Masao"
+15,誤差を含む係数を持つ多項式の因数分解(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-15.pdf,日本大学生産工学部,平野 菅保,"Hirano, Sugayasu"
+16,ある超越方程式の解の近似:山内二郎先生に捧ぐ(数理計算技術の基礎理論),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0832-16.pdf,"千葉大学工学部(元),千葉大学工学部","戸田 英雄,小野 令美","Toda, Hideo,Ono, Harumi"

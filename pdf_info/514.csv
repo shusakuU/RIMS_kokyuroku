@@ -1,0 +1,13 @@
+No.,title,link,Affiliation,Author in JPN,Author in ENG
+1,第1種複素楕円積分の全域近似 : 母数が小さい場合(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-01.pdf,"八代工業高等専門学校,名古屋大学工学部,名古屋大学工学部","久原 秀夫,鳥居 達生,杉浦 洋","Kuhara, Hideo,Torii, Tatsuo,Sugiura, Hiroshi"
+2,DE変換公式と補外法を用いて振動的関数の積分を計算する方法に関する一考察(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-02.pdf,筑波大学電子情報工学系,杉原 正顕,"Sugihara, Masaaki"
+3,関数の値、そのすべての導関数の値、および関数値計算の際に生じる丸め誤差の大きさを同時に計算する方法 : 計算量と実用性(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-03.pdf,東京大学工学部,伊理 正夫,"IRI, Masao"
+4,CR(k)法の加速について(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-04.pdf,図書館情報大学,村田 健郎,"Murata, Kenro"
+5,ベクトル計算機向きICCG法(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-05.pdf,日立ソフト,後 保範,"Ushiro, Yasunori"
+6,格子ゲージ理論に現れる大規模連立一次方程式の不完全LU分解CR法とその並列化(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-06.pdf,筑波大学電子情報工学系,小柳 義夫,"Oyanagi, Yoshio"
+7,ベクトルプロセッサのソフトウェア技術 : FACOM VPソフトウェア(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-07.pdf,富士通(株),神谷 幸男,"Kamiya, Sachio"
+8,VECTOR COMPILER AND ITS ALGORITHMS,http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-08.pdf,"日立製作所中央研究所,日立製作所中央研究所,日立製作所中央研究所","安村 通晃,田中 義一,金田 泰","Yasumura, Michiaki,Tanaka, Yoshikazu,Kanada, Yasusi"
+9,スーパーコンピュータ S-810東大システムにおける基本演算と数学関数の性能評価(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-09.pdf,東京大学大型計算機センター,唐木 幸比古,"KARAKI, Yukihiko"
+10,対称三項行列の固有値の並列探索(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-10.pdf,京都大学大型計算機センター,島崎 眞昭,"Shimasaki, Masaaki"
+11,非線形方程式のBifurcation Pointsの計算方法について(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-11.pdf,徳島大学工学部,山本 範夫,"Yamamoto, Norio"
+12,Runge-Kutta型5段5次と6段6次の極限公式と数値的に同じ精度の微係数を用いない公式(並列数値計算アルゴリズムとその周辺),http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0514-12.pdf,"都立農芸高等学校,千葉大学工学部","小野 令美,戸田 英雄","Ono, Harumi,Toda, Hideo"
