@@ -2,9 +2,47 @@
 <html>
   <head>
     <base target="_top">
+    <?!= include('stylesheet'); ?>
   </head>
   <body>
-    <h1 style="text-align:center"> RIM 講究録 検索 </h1>
+   <div class="title">
+    <h1> RIM 講究録 検索 </h1>
+   </div>
+   <div class="search_table">
+    <table>
+     <tr>
+       <th class="search_type" align="right">全検索 :</th>
+       <th>
+         <form name="keyword all">
+          <input type="search" id="keyword all" placeholder="例:)可換環, 数学史">
+          </form>
+       </th>
+     </tr>
+     <tr>
+       <th class="search_type" align="right">タイトル検索 :</th>
+       <th>
+         <form name="keyword title">
+          <input type="search" id="keyword title" placeholder="例:)代数幾何学">
+          </form>
+       </th>
+     </tr>
+     <tr>
+       <th class="search_type" align="right">著者検索 :</th>
+       <th>
+         <form name="keyword author">
+          <input type="search" id="keyword author" placeholder="例:)上野健爾">
+          </form>
+       </th>
+     </tr>
+     <tr>
+     <th colspan="2">
+     <input type="button" value="検索" onclick="search()" style="width:60%;">
+     </th>
+     </tr>
+
+    </table>
+    </div>
+  <?!= include('js'); ?>
   </body>
 </html>
 
