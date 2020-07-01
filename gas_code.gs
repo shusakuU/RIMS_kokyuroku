@@ -25,6 +25,7 @@ function readAllPdfInfo(){
 
 
 function searchAllInKokyuroku(searchWord){
+  Logger.log(searchWord);
   var kokyurokuSheet = readKokyurokuSheet();
   var numRows = kokyurokuSheet.getLastRow();
   var numColumns = kokyurokuSheet.getLastColumn();
@@ -39,11 +40,11 @@ function searchAllInKokyuroku(searchWord){
       }
     }
   }
+  Logger.log(hitValues);
   return hitValues
 }
 
 function searchAllInPdfInfo(searchWord){
-  var searchWord = "整数";
   var allPdfInfoSheet = readAllPdfInfo();
   var numRows = allPdfInfoSheet.getLastRow();
   var numColumns = allPdfInfoSheet.getLastColumn();

@@ -1,4 +1,64 @@
 <script>
+function searchSucceed(searchResult){
+  console.log('Search succeeded');
+  return searchResult;
+};
+
+function searchFailed(){
+  console.log('Search failed');
+};
+
+
+function searchKeyWordAll(){
+  var searchWord = document.getElementById("keyword all").value;
+  if(searchWord === null){};
+   google.script.run
+                .withSuccessHandler(displaySearchResult)
+                .withFailureHandler(searchFailed)
+                .searchAllInKokyuroku(searchWord);
+};
+
+
+function displaySearchResult(kokyurokuSearchResultsArray){
+  var resultTag = document.getElementById('searchResult');
+  resultTag.innerHTML = "検索中";
+  var table = document.createElement('table');
+  for (var i = 0; i < kokyurokuSearchResultsArray.length; i++) {
+    var resultRecord = kokyurokuSearchResultsArray[i];
+    var tr = document.createElement('tr');
+    for (var j=0; j < resultRecord.length; j++) {
+      var th = document.createElement('td');
+      if(j !== 4){
+        th.textContent = resultRecord[j];
+        }
+      else{
+        var aTag = document.createElement('a');
+        aTag.href = resultRecord[j];
+        aTag.textContent = resultRecord[j];
+        th.appendChild(aTag);
+      };
+      tr.appendChild(th);
+       
+    };
+  table.appendChild(tr);
+  };
+  resultTag.innerHTML = "";
+  resultTag.appendChild(table);
+};
+
+
+function search(){
+  searchKeyWordAll();
+};
+
+function searchSucceed(searchResult){
+  console.log('Search succeeded');
+  return searchResult;
+};
+
+function searchFailed(){
+  console.log('Search failed');
+};
 
 
 </script>
